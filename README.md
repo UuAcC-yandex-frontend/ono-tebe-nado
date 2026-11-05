@@ -1,1 +1,1 @@
-https://github.com/UuAcC-yandex-frontend/ono-tebe-nado
+https://github.com/UuAcC-yandex-frontend/ono-tebe-nado-ad
